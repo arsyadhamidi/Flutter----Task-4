@@ -4,7 +4,7 @@ import 'package:task4/home/cart.dart';
 import 'package:task4/home/chat.dart';
 import 'package:task4/home/search.dart';
 import 'package:task4/home/profile.dart';
-import 'package:task4/whitelist.dart';
+import 'package:task4/home/whitelist.dart';
 
 class HomePage extends StatefulWidget {
 
